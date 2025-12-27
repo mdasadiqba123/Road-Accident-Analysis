@@ -51,6 +51,7 @@ Interactive slicers allow deeper analysis based on:
 ## 📂 Dataset
 The dataset used for this analysis is available at:  
 🔗 https://docs.google.com/spreadsheets/d/1cwFlSxkTaBjbvgD8J9QGCPAkPmuzaRib/edit?usp=sharing
+Dashboard link:https://www.linkedin.com/feed/update/urn:li:activity:7406558206061109248/
 
 ---
 
